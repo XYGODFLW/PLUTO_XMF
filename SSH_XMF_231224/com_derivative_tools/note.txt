@@ -1,6 +1,0 @@
-This is a state machine
-var:{ 
-      PD_VAR_END  :end of variable array
-      PD_VAR1_END :x1 end of variable matrix
-      PD_VAR2_END :x2 end of variable matrix
-    } 

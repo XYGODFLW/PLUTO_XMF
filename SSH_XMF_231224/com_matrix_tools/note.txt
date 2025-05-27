@@ -1,8 +1,0 @@
-matrix_tools.c:
-	source file to execute matrix calculation
-
-matrix_tools.h, matrix_macro.h, state_globals.h: 
-	included by matrix_tools.c
-
-matrix_prototype: 
-	included by other module who use the matrix tools 
