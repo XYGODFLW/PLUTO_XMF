@@ -1,0 +1,5 @@
+HEAD:
+#r_Orbit is 1AU
+nbeam 0
+DATA:
+  wavelength        flux

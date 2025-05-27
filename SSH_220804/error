@@ -1,0 +1,7 @@
+/opt/software/tsce4/torque6/share/cu05/mom_priv/jobs/89250.mu01.SC: line 15: cd: /home/xinglei4669/SSH_220523: Permission denied
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 0
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 1
+
+Can't find file /home/guojh/.vnc/mu01:52.pid
+You'll have to kill the Xvnc process manually
+

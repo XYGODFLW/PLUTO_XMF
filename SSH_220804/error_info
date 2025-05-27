@@ -1,0 +1,5 @@
+/opt/software/tsce4/torque6/share/cu17/mom_priv/jobs/90084.mu01.SC: line 15: cd: /home/xinglei4669/SSH_220509: Permission denied
+
+Can't find file /home/guojh/.vnc/mu01:94.pid
+You'll have to kill the Xvnc process manually
+
