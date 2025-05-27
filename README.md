@@ -16,3 +16,5 @@ of HD 209458b [J/OL]. Astrophysical Journal, 2023, 953(2): 166. DOI: 10.3847/153
 
 Xing L, Guo J, Yang C, et al. Simulating the escaping atmosphere of GJ436 b with twofluid magnetohydrodynamic models [J/OL]. Research in Astronomy and Astrophysics,
 2024.
+
+## ALL Rights Lefted
